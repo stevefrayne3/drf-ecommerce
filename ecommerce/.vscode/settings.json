@@ -1,0 +1,10 @@
+{
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.typeCheckingMode": "basic"
+  // "python.formatting.provider": "black",
+  // "python.formatting.blackArgs": ["--line--length", "88"],
+  // "[python]": {
+  //   "editor.formatOnType": true,
+  //   "editor.codeActionsOnSave": { "source.organizeImports": true }
+  // }
+}
